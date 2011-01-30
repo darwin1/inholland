@@ -1,6 +1,6 @@
 Voldoenden
   Erik de Groot (435676) & Stefan Triep (436451)
+  Erwin Twisk
 
 Onvoldoenden
-  Erwin Twisk
   Maziar Afrasiabi <437912@student.INHOLLAND.nl>
